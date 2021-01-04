@@ -7,3 +7,5 @@ mido 1.95
 vivo en Aldaia
 
 Hola que ase
+
+ya tengo la version 2 del proyecto
